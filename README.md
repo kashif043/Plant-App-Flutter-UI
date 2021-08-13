@@ -1,4 +1,4 @@
-# Plant App - Flutter UI https://www.youtube.com/watch?v=hqYV2Z-um10&ab_channel=TheCodeMind
+# Plant App - Flutter UI
 
 ## [Watch it on Youtube Part 1](https://www.youtube.com/watch?v=-87m9PKgfCk&ab_channel=TheCodeMind "# Watch it on Youtube Part 1")
 ## [Watch it on Youtube Part 2](https://www.youtube.com/watch?v=hqYV2Z-um10&ab_channel=TheCodeMind "# Watch it on Youtube Part 2")
