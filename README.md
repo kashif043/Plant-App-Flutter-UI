@@ -8,4 +8,4 @@ Nice clean plant app UI using flutter, the Home page you will get search box tha
 
 # Plant App Final UI
 
-![](https://github.com/kashif043/Plant-App-Flutter-UI/blob/master/New Project.png?raw=true)
+![](https://github.com/kashif043/Plant-App-Flutter-UI/blob/master/image.png?raw=true)
