@@ -1,6 +1,7 @@
 # Plant App - Flutter UI
 
 ## ![Watch it on Youtube Part 1](https://www.youtube.com/watch?v=-87m9PKgfCk&ab_channel=TheCodeMind)
+[link text](https://www.youtube.com/watch?v=-87m9PKgfCk&ab_channel=TheCodeMind "# Watch it on Youtube Part 1")
 
 ## Packages we are using:
 
